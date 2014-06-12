@@ -4,7 +4,7 @@
 ##Credits: 
 
 ### Game artwork by: 
-Billy Wilson @ [Different by Design](dxdportfolio.com)
+Billy Wilson @ [Different by Design](http://www.dxdportfolio.com)
 
 [LinkedIn](https://www.linkedin.com/profile/view?id=48110179)
 
@@ -18,7 +18,7 @@ Caleb P. @ [Gymbyl Coding](http://gymbyl.com/)
 
 ====================================
 
-Watch the demo video [here](http://youtu.be/K8zLU-2wtYQ)
+Watch the demo video [here](http://youtu.be/tfyg-MYz3-g)
 
 Follow the quick tutorial [here](http://docs.coronalabs.com/daily/composer/tutorial.html)
 
